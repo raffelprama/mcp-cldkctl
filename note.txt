@@ -1,0 +1,7 @@
+twine upload dist/*
+python -m build
+
+readme.md
+deploymend.md
+development.md
+howto.md

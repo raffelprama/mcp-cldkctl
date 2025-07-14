@@ -1,0 +1,11 @@
+__pycache__/
+build/
+dist/
+*.egg-info/
+.env
+.venv
+*.pyc 
+.cldkctl/
+.cursor/
+.DS_Store
+Thumbs.db 
