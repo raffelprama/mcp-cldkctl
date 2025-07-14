@@ -1,4 +1,4 @@
-# MCP cldkctl Server
+# MCP cldkctl Server 1.0
 
 A Model Context Protocol (MCP) server that provides full access to Cloudeka's cldkctl CLI functionality through Claude Desktop, Cursor, and other MCP-compatible clients.
 
