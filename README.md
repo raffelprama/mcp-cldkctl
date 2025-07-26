@@ -2,6 +2,10 @@
 
 A Model Context Protocol (MCP) server that provides full access to Cloudeka's cldkctl CLI functionality through Claude Desktop, Cursor, and other MCP-compatible clients.
 
+<a href="https://glama.ai/mcp/servers/@raffelprama/mcp-cldkctl">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@raffelprama/mcp-cldkctl/badge" alt="cldkctl Server MCP server" />
+</a>
+
 ## Features
 
 - **Smart Authentication**: Automatic environment fallback (production -> staging)
