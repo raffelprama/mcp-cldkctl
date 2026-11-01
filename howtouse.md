@@ -92,7 +92,7 @@ Add to your Claude Desktop configuration file:
       "command": "uvx",
       "args": ["mcp-cldkctl-t@0.1.12"],
       "env": {
-        "CLDKCTL_TOKEN": "cldkctl_4Lyn6i2vRslxqQi5d0SiNXN5XHyvGRzU",
+        "CLDKCTL_TOKEN": "cldkctl_your_token_here",
         "CLDKCTL_BASE_URL": "https://staging.ai.cloudeka.id"
       }
     }
